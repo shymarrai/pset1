@@ -1,0 +1,4 @@
+1 - 1- request height
+2- check height
+3- if height less than or equal to 8 and greater than 1 continue without repeating
+4- repeat string "#" until the chosen number starting at 1
